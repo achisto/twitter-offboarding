@@ -1,5 +1,5 @@
 # twitter-offboarding
-Collection of helpful tools to offboard Twitter, enhance the Twitter archive, delete your data and move over to Mastodon.
+Collection of helpful tools for leaving Twitter, enhancing the Twitter archive, deleting your data and moving over to Mastodon.
 
 Feel free to suggest other tools by creating an issue.
 
