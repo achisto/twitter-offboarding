@@ -1,14 +1,17 @@
 # twitter-offboarding
 Collection of helpful tools to offboard Twitter, enhance the Twitter archive and move over to Mastodon.
 
-## Enhance your Twitter archive
-Download your Twitter archive in your account settings. Here are some tools that can help to enhance the downloaded archive.
+## Use and enhance your Twitter archive
+Download your Twitter archive in your account settings. Here are some tools that can help to enhance the downloaded archive or make better use of it.
 
 ### [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
 Python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links.
 
 ### [get-twitter-bookmarks](https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe)
-Python code to get text and link of the bookmarked tweets and save in markdown.
+Your Twitter archive does not include tweets you bookmarked. This python code helps to get text and link of your bookmarked tweets and save them in a markdown file.
+
+### [twitter-archive-browser](https://sk22.github.io/twitter-archive-browser/)
+Browse your Twitter archive and bulk-delete tweets in a certain timeframe or containing certain keywords with your browser's console.
 
 
 ## Move your followings to Mastodon
