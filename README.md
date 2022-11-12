@@ -13,6 +13,13 @@ Your Twitter archive does not include tweets you bookmarked. This python code he
 ### [twitter-archive-browser](https://sk22.github.io/twitter-archive-browser/)
 Browse your Twitter archive and bulk-delete tweets in a certain timeframe or containing certain keywords with your browser's console.
 
+## Back up information not included in your twitter archive
+### Export your Twitter lists
+The easiest way to export your twitter lists is by using Tweetdeck and following [this guide](https://www.makeuseof.com/tag/backup-export-twitter-lists/).
+
+### Offload your followings' information
+Your Twitter archive does not contain information about your followings, especially not their profiles' bio or websites. Download this information in case you want to stay connected outside of Twitter or follow their blog. [Twitter Followings OPML Export](http://opml.glitch.me/) helps you to get websites and RSS Feeds of the people you follow on Twitter.
+
 
 ## Move your followings to Mastodon
 Tools that match your Twitter followings' accounts with their Mastodon account(s) and enable you to bulk-follow all of them.
