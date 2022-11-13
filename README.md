@@ -35,7 +35,7 @@ Tools that match your Twitter followings' accounts with their Mastodon account(s
 I don't suggest or even recommend deleting your Twitter profile as this makes your handle (the @username-thingy) available again for anyone to take over. If you want to leave Twitter and clean up behind yourself it's a good idea to first inform your followers where else they may be able to contact you. Also it is better to leave the account active but - depending on your likes - delete some or all contents. Find some recommendations with increasing "severity" below.
 
 ### 1. Go private
-The easiest way to quickly prevent new users, search engines and other crawlers to cread your content. Your followers will of course still be able to read your profile's contents. Your bio will still be visible to anyone.
+The easiest way to quickly prevent new users, search engines and other crawlers to read your content. Your followers will of course still be able to read your profile's contents. Your bio will still be visible to anyone.
 
 ### 2. Soft-block your followers
 To prevent (some of) your followers from reading your past tweets, soft-block them by going to their profile, blocking and (if you wish) unblocking them again. For a large follower count this may be rather time consuming so you could use an automated tool like [Redblock](https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md).
