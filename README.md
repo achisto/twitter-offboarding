@@ -22,6 +22,9 @@ The easiest way to export your twitter lists is by using Tweetdeck and following
 ### Offload your followings' information
 Your Twitter archive does not contain information about your followings, especially not their profiles' bio or websites. Download this information in case you want to stay connected outside of Twitter or follow their blog. [Twitter Followings OPML Export](http://opml.glitch.me/) helps you to get websites and RSS Feeds of the people you follow on Twitter.
 
+### Export bookmarks as markdown file
+You first need to collect JSONs of your bookmarks which then can be converted to a Markdown file with the help of this Python script. The instructions and a link to the script can be found [here](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj).
+
 
 ## Move your followings to Mastodon
 Tools that match your Twitter followings' accounts with their Mastodon account(s) and enable you to bulk-follow all of them.
