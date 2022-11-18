@@ -1,7 +1,7 @@
 # twitter-offboarding
 Collection of helpful tools for leaving Twitter, enhancing the Twitter archive, deleting your data and moving over to Mastodon.
 
-Feel free to suggest other tools by creating an issue.
+Feel free to suggest other tools by creating an issue or pull request.
 
 ## Use and enhance your Twitter archive
 Download your Twitter archive in your account settings. Here are some tools that can help to enhance the downloaded archive or make better use of it.
