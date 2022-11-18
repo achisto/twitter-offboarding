@@ -7,7 +7,7 @@ Feel free to suggest other tools by creating an issue or pull request.
 [Download your Twitter archive](https://twitter.com/settings/download_your_data) in your account settings. Here are some tools that can help to enhance the downloaded archive or make better use of it.
 
 ### [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
-Python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links.
+Python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links. Comes with a second script that can help you downloading the original size of the images you've posted.
 
 ### [get-twitter-bookmarks](https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe)
 Your Twitter archive does not include tweets you bookmarked. This python code helps to get text and link of your bookmarked tweets and save them in a markdown file.
