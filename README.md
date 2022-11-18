@@ -10,7 +10,7 @@ Feel free to suggest other tools by creating an issue or pull request.
 Python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links. Comes with a second script that can help you downloading the original size of the images you've posted.
 
 ### [get-twitter-bookmarks](https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe)
-Your Twitter archive does not include tweets you bookmarked. This python code helps to get text and link of your bookmarked tweets and save them in a markdown file.
+Your Twitter archive does not include tweets you bookmarked. This python code intakes JSONs of your bookmarked tweets and saves them in a markdown file. You need to be familiar with using your browser's dev tools in order to collect the JSONs as they are not included in the official Twitter archive. The script's author has also written a [short tutorial](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj) on how to collect everything you need.
 
 ### [twitter-archive-browser](https://sk22.github.io/twitter-archive-browser/)
 Browse your Twitter archive and bulk-delete tweets in a certain timeframe or containing certain keywords with your browser's console.
