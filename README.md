@@ -25,13 +25,17 @@ Your Twitter archive does not contain information about your followings, especia
 ### Export bookmarks as markdown file
 You first need to collect JSONs of your bookmarks which then can be converted to a Markdown file with the help of this Python script. The instructions and a link to the script can be found [here](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj).
 
+## Mastodon
 
-## Move your followings to Mastodon
+### Move your followings to Mastodon
 Tools that match your Twitter followings' accounts with their Mastodon account(s) and enable you to bulk-follow all of them.
 
 - [Debirdifiy](https://pruvisto.org/debirdify/) authorises with your Twitter account and scans your followings' accounts (display name, bio, website, pinned tweet) for Fediverse account names
 - [Fedifinder](https://fedifinder.glitch.me) works just like Debirdifiy but results may vary between the two services. Give them both a try.
 - [Twitodon](https://twitodon.com/) takes a different approach by authorising with both your Twitter and Mastodon account and display people of your Twitter followings who have done the same
+
+### Find accounts your followings follow the most
+[Who To Follow](https://whotofollow.tibor.net/) runs locally in your browser. First it collects all your followings, then looks for all the people your followings follow and sorts them by who's followed the most.
 
 
 ## Clean up your Twitter profile and DMs
