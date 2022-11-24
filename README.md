@@ -32,6 +32,7 @@ Tools that match your Twitter followings' accounts with their Mastodon account(s
 
 - [Debirdifiy](https://pruvisto.org/debirdify/) authorises with your Twitter account and scans your followings' accounts (display name, bio, website, pinned tweet) for Fediverse account names
 - [Fedifinder](https://fedifinder.glitch.me) works just like Debirdifiy but results may vary between the two services. Give them both a try.
+- [Movetodon](https://www.movetodon.org/) scans your Twitter followings' profiles just like Fedifinder and Debirdify but lets you selectively follow their respective Mastodon account right outside of your browser without the need for a .csv download & upload
 - [Twitodon](https://twitodon.com/) takes a different approach by authorising with both your Twitter and Mastodon account and display people of your Twitter followings who have done the same
 
 ### Find accounts your followings follow the most
