@@ -35,9 +35,11 @@ Tools that match your Twitter followings' accounts with their Mastodon account(s
 - [Movetodon](https://www.movetodon.org/) scans your Twitter followings' profiles just like Fedifinder and Debirdify but lets you selectively follow their respective Mastodon account right outside of your browser without the need for a .csv download & upload
 - [Twitodon](https://twitodon.com/) takes a different approach by authorising with both your Twitter and Mastodon account and display people of your Twitter followings who have done the same
 
-### Find accounts your followings follow the most
+### Find accounts to follow
+#### Accounts your followings follow the most
 [Who To Follow](https://whotofollow.tibor.net/) runs locally in your browser. First it collects all your followings, then looks for all the people your followings follow and sorts them by who's followed the most.
 
+[Followgraph](https://followgraph.vercel.app/) does a similar job but was a bit quicker in my tests.
 
 ## Clean up your Twitter profile and DMs
 I don't suggest or even recommend deleting your Twitter profile as this makes your handle (the @username-thingy) available again for anyone to take over. If you want to leave Twitter and clean up behind yourself it's a good idea to first inform your followers where else they may be able to contact you. Also it is better to leave the account active but - depending on your likes - delete some or all contents. Find some recommendations with increasing "severity" below.
