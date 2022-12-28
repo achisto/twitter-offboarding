@@ -1,3 +1,24 @@
+# Table of contents
+- [twitter-offboarding](#twitter-offboarding)
+  * [Use and enhance your Twitter archive](#use-and-enhance-your-twitter-archive)
+    + [twitter-archive-parser](#twitter-archive-parser)
+    + [get-twitter-bookmarks](#get-twitter-bookmarks)
+    + [twitter-archive-browser](#twitter-archive-browser)
+  * [Back up information not included in your twitter archive](#back-up-information-not-included-in-your-twitter-archive)
+    + [Export your Twitter lists](#export-your-twitter-lists)
+    + [Offload your followings' information](#offload-your-followings-information)
+    + [Export bookmarks as markdown file](#export-bookmarks-as-markdown-file)
+  * [Mastodon](#mastodon)
+    + [Move your followings to Mastodon](#move-your-followings-to-mastodon)
+    + [Find accounts to follow](#find-accounts-to-follow)
+      - [Accounts your followings follow the most](#accounts-your-followings-follow-the-most)
+  * [Clean up your Twitter profile and DMs](#clean-up-your-twitter-profile-and-dms)
+    + [1. Go private](#1-go-private)
+    + [2. Soft-block your followers](#2-soft-block-your-followers)
+    + [3. Delete your tweets, likes (and DMs) with Semiphemeral](#3-delete-your-tweets-likes-and-dms-with-semiphemeral)
+    + [4. Check for online-archives of your profile](#4-check-for-online-archives-of-your-profile)
+
+
 # twitter-offboarding
 Collection of helpful tools for leaving Twitter, enhancing the Twitter archive, deleting your data and moving over to Mastodon.
 
@@ -6,14 +27,14 @@ Feel free to suggest other tools by creating an issue or pull request.
 ## Use and enhance your Twitter archive
 [Download your Twitter archive](https://twitter.com/settings/download_your_data) in your account settings. Here are some tools that can help to enhance the downloaded archive or make better use of it.
 
-### [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
-Python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links. Comes with a second script that can help you downloading the original size of the images you've posted.
+### twitter-archive-parser
+[twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) is some python code to parse a Twitter archive and output in various ways. Takes your archive and converts it to markdown with embedded images, videos and links. Replaces the obfuscated t.co-links with their original links. Comes with a second script that can help you downloading the original size of the images you've posted.
 
-### [get-twitter-bookmarks](https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe)
-Your Twitter archive does not include tweets you bookmarked. This python code intakes JSONs of your bookmarked tweets and saves them in a markdown file. You need to be familiar with using your browser's dev tools in order to collect the JSONs as they are not included in the official Twitter archive. The script's author has also written a [short tutorial](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj) on how to collect everything you need.
+### get-twitter-bookmarks
+Your Twitter archive does not include tweets you bookmarked. [get-twitter-bookmarks](https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe) intakes JSONs of your bookmarked tweets and saves them in a markdown file. You need to be familiar with using your browser's dev tools in order to collect the JSONs as they are not included in the official Twitter archive. The script's author has also written a [short tutorial](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj) on how to collect everything you need.
 
-### [twitter-archive-browser](https://sk22.github.io/twitter-archive-browser/)
-Browse your Twitter archive and bulk-delete tweets in a certain timeframe or containing certain keywords with your browser's console.
+### twitter-archive-browser
+[twitter-archive-browser](https://sk22.github.io/twitter-archive-browser/) lets you browse your Twitter archive and bulk-delete tweets in a certain timeframe or containing certain keywords with your browser's console.
 
 ## Back up information not included in your twitter archive
 ### Export your Twitter lists
