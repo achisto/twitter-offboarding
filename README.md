@@ -15,7 +15,6 @@ Feel free to suggest other tools by creating an issue or pull request.
   - [Mastodon](#mastodon)
     * [Move your followings to Mastodon](#move-your-followings-to-mastodon)
     * [Find accounts to follow](#find-accounts-to-follow)
-      + [Accounts your followings follow the most](#accounts-your-followings-follow-the-most)
   - [Clean up your Twitter profile and DMs](#clean-up-your-twitter-profile-and-dms)
     * [1. Go private](#1-go-private)
     * [2. Soft-block your followers](#2-soft-block-your-followers)
