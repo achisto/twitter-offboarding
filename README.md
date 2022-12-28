@@ -1,28 +1,26 @@
-# Table of contents
-- [twitter-offboarding](#twitter-offboarding)
-  * [Use and enhance your Twitter archive](#use-and-enhance-your-twitter-archive)
-    + [twitter-archive-parser](#twitter-archive-parser)
-    + [get-twitter-bookmarks](#get-twitter-bookmarks)
-    + [twitter-archive-browser](#twitter-archive-browser)
-  * [Back up information not included in your twitter archive](#back-up-information-not-included-in-your-twitter-archive)
-    + [Export your Twitter lists](#export-your-twitter-lists)
-    + [Offload your followings' information](#offload-your-followings-information)
-    + [Export bookmarks as markdown file](#export-bookmarks-as-markdown-file)
-  * [Mastodon](#mastodon)
-    + [Move your followings to Mastodon](#move-your-followings-to-mastodon)
-    + [Find accounts to follow](#find-accounts-to-follow)
-      - [Accounts your followings follow the most](#accounts-your-followings-follow-the-most)
-  * [Clean up your Twitter profile and DMs](#clean-up-your-twitter-profile-and-dms)
-    + [1. Go private](#1-go-private)
-    + [2. Soft-block your followers](#2-soft-block-your-followers)
-    + [3. Delete your tweets, likes (and DMs) with Semiphemeral](#3-delete-your-tweets-likes-and-dms-with-semiphemeral)
-    + [4. Check for online-archives of your profile](#4-check-for-online-archives-of-your-profile)
-
-
 # twitter-offboarding
 Collection of helpful tools for leaving Twitter, enhancing the Twitter archive, deleting your data and moving over to Mastodon.
 
 Feel free to suggest other tools by creating an issue or pull request.
+
+## Table of contents
+  - [Use and enhance your Twitter archive](#use-and-enhance-your-twitter-archive)
+    * [twitter-archive-parser](#twitter-archive-parser)
+    * [get-twitter-bookmarks](#get-twitter-bookmarks)
+    * [twitter-archive-browser](#twitter-archive-browser)
+  - [Back up information not included in your twitter archive](#back-up-information-not-included-in-your-twitter-archive)
+    * [Export your Twitter lists](#export-your-twitter-lists)
+    * [Offload your followings' information](#offload-your-followings-information)
+    * [Export bookmarks as markdown file](#export-bookmarks-as-markdown-file)
+  - [Mastodon](#mastodon)
+    * [Move your followings to Mastodon](#move-your-followings-to-mastodon)
+    * [Find accounts to follow](#find-accounts-to-follow)
+      + [Accounts your followings follow the most](#accounts-your-followings-follow-the-most)
+  - [Clean up your Twitter profile and DMs](#clean-up-your-twitter-profile-and-dms)
+    * [1. Go private](#1-go-private)
+    * [2. Soft-block your followers](#2-soft-block-your-followers)
+    * [3. Delete your tweets, likes (and DMs) with Semiphemeral](#3-delete-your-tweets-likes-and-dms-with-semiphemeral)
+    * [4. Check for online-archives of your profile](#4-check-for-online-archives-of-your-profile)
 
 ## Use and enhance your Twitter archive
 [Download your Twitter archive](https://twitter.com/settings/download_your_data) in your account settings. Here are some tools that can help to enhance the downloaded archive or make better use of it.
