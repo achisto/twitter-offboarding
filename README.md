@@ -40,6 +40,9 @@ The easiest way to export your twitter lists is by using Tweetdeck and following
 ### Offload your followings' information
 Your Twitter archive does not contain information about your followings, especially not their profiles' bio or websites. Download this information in case you want to stay connected outside of Twitter or follow their blog. [Twitter Followings OPML Export](http://opml.glitch.me/) helps you to get websites and RSS Feeds of the people you follow on Twitter.
 
+### Export bookmarks as JSON
+Luca wrote a [script](https://github.com/lucahammer/tweetXer) that can export all your bookmarks as a JSON.
+
 ### Export bookmarks as markdown file
 You first need to collect JSONs of your bookmarks which then can be converted to a Markdown file with the help of this Python script. The instructions and a link to the script can be found [here](https://dev.to/divyajyotiuk/exporting-your-twitter-bookmarks-in-markdown-file-19bj).
 
@@ -69,6 +72,8 @@ The easiest way to quickly prevent new users, search engines and other crawlers 
 To prevent (some of) your followers from reading your past tweets, soft-block them by going to their profile, blocking and (if you wish) unblocking them again. For a large follower count this may be rather time consuming so you could use an automated tool like [Redblock](https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md).
 
 ### 3. Delete your tweets, likes (and DMs) with Semiphemeral
+Update 2023-10-12: Semiphemeral does not work any longer because of Twitter's API restrictions. However, deleting your Tweets by hand in your browser is still possible and therefore you can automate this task. Luca Hammer wrote a [script](https://github.com/lucahammer/tweetXer) that does exactly this.
+
 [Semiphemeral](https://github.com/micahflee/semiphemeral) is a hosted service (though you could also set it up yourself) that connects to your Twitter account and automatically deletes your old tweets, except for the ones you want to keep. Can also be used to delete all of your DMs - though that will only delete them on your end.
 
 Keep in mind that there are limits to the number of tweets and DMs Twitter exposes via their API. Without academic access you can only retrieve and therefore delete the last [3200 tweets](https://github.com/micahflee/semiphemeral) and [30 days of DMs](https://twittercommunity.com/t/retrieving-older-than-30-days-direct-messages-direct-messages-events-list/104901).
