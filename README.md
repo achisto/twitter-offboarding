@@ -71,7 +71,7 @@ The easiest way to quickly prevent new users, search engines and other crawlers 
 ### 2. Soft-block your followers
 To prevent (some of) your followers from reading your past tweets, soft-block them by going to their profile, blocking and (if you wish) unblocking them again. For a large follower count this may be rather time consuming so you could use an automated tool like [Redblock](https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md).
 
-### 3. Delete your tweets, likes (and DMs) with Semiphemeral
+### 3. Delete your tweets and likes
 Update 2023-10-12: Semiphemeral does not work any longer because of Twitter's API restrictions. However, deleting your Tweets by hand in your browser is still possible and therefore you can automate this task. Luca Hammer wrote a [script](https://github.com/lucahammer/tweetXer) that does exactly this.
 
 [Semiphemeral](https://github.com/micahflee/semiphemeral) is a hosted service (though you could also set it up yourself) that connects to your Twitter account and automatically deletes your old tweets, except for the ones you want to keep. Can also be used to delete all of your DMs - though that will only delete them on your end.
