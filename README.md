@@ -18,7 +18,7 @@ Feel free to suggest other tools by creating an issue or pull request.
   - [Clean up your Twitter profile and DMs](#clean-up-your-twitter-profile-and-dms)
     * [1. Go private](#1-go-private)
     * [2. Soft-block your followers](#2-soft-block-your-followers)
-    * [3. Delete your tweets, likes (and DMs) with Semiphemeral](#3-delete-your-tweets-likes-and-dms-with-semiphemeral)
+    * [3. Delete your tweets and likes](#3-delete-your-tweets-likes-and-dms-with-semiphemeral)
     * [4. Check for online-archives of your profile](#4-check-for-online-archives-of-your-profile)
 
 ## Use and enhance your Twitter archive
@@ -74,9 +74,9 @@ To prevent (some of) your followers from reading your past tweets, soft-block th
 ### 3. Delete your tweets and likes
 Update 2023-10-12: Semiphemeral does not work any longer because of Twitter's API restrictions. However, deleting your Tweets by hand in your browser is still possible and therefore you can automate this task. Luca Hammer wrote a [script](https://github.com/lucahammer/tweetXer) that does exactly this.
 
-[Semiphemeral](https://github.com/micahflee/semiphemeral) is a hosted service (though you could also set it up yourself) that connects to your Twitter account and automatically deletes your old tweets, except for the ones you want to keep. Can also be used to delete all of your DMs - though that will only delete them on your end.
+~~[Semiphemeral](https://github.com/micahflee/semiphemeral) is a hosted service (though you could also set it up yourself) that connects to your Twitter account and automatically deletes your old tweets, except for the ones you want to keep. Can also be used to delete all of your DMs - though that will only delete them on your end.~~
 
-Keep in mind that there are limits to the number of tweets and DMs Twitter exposes via their API. Without academic access you can only retrieve and therefore delete the last [3200 tweets](https://github.com/micahflee/semiphemeral) and [30 days of DMs](https://twittercommunity.com/t/retrieving-older-than-30-days-direct-messages-direct-messages-events-list/104901).
+~~Keep in mind that there are limits to the number of tweets and DMs Twitter exposes via their API. Without academic access you can only retrieve and therefore delete the last [3200 tweets](https://github.com/micahflee/semiphemeral) and [30 days of DMs](https://twittercommunity.com/t/retrieving-older-than-30-days-direct-messages-direct-messages-events-list/104901).~~
 
 In case you have more than 3200 tweets there are some paid tools but I am not comfortable sharing them here because I haven't tested them (yet).
 
